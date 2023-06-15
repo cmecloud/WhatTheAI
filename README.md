@@ -11,8 +11,8 @@ I plan to document and find various resources for effectively testing AI and dat
 
 3. Tools and Utilities: Access a curated set of tools and utilities developed to simplify the testing process for AI and data services. These resources aim to enhance your productivity, automate repetitive tasks, and provide valuable insights into the performance and robustness of your AI systems.
 
-I am open to feedback about this repository by submitting bug reports, suggesting enhancements, or sharing insights through pull requests. Your contributions and feedback are vital in advancing the field of AI and data testing.
+I am open to feedback about this repository by submitting bug reports, suggesting enhancements, or sharing insights through pull requests. Your contributions and feedback are vital in my learning about this space.
 
 If you have any questions, need assistance, or want to discuss ideas related to AI and data testing, please feel free to reach out. I'd be more than happy to assist you.
 
-Thank you for visiting my repo.
+Thanks for visiting my repo.
